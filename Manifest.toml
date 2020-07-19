@@ -232,6 +232,12 @@ git-tree-sha1 = "6f85a35d2377cb2db1bc448ed0d6340d2bb1ea64"
 uuid = "093fc24a-ae57-5d10-9952-331d41423f4d"
 version = "1.3.3"
 
+[[LightGraphsFlows]]
+deps = ["JuMP", "LightGraphs", "LinearAlgebra", "Markdown", "SimpleTraits", "SparseArrays"]
+git-tree-sha1 = "f9f2b7773f3c8440ce21d62ef3b32d3d1f78fa23"
+uuid = "2f5eb75a-258c-59e0-affc-f41c55f75335"
+version = "0.4.1"
+
 [[LinearAlgebra]]
 deps = ["Libdl"]
 uuid = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
